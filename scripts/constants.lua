@@ -37,7 +37,7 @@ Constants.  Descriptions = {
 	[AntibirthRunes.Enums.Runes.INGWAZ] = {
 		en_us = {
 			name = "Ingwaz",
-			description = "Unlocks every chest in the room",
+			description = "Unlocks every chest in the room." .. "#{{Collectible199}} Applies Mom's Key effect to opened chests.",
 		},
 		spa = {
 			name = "Ingwaz",
@@ -45,7 +45,7 @@ Constants.  Descriptions = {
 		},
 		ru = {
 			name = "Игваз",
-			description = "Открывает все сундуки в комнате",
+			description = "Открывает все сундуки в комнате." .. "#{{Collectible199}} Применяет эффект Маминого Ключа к открытым сундукам.",
 		},
 	},
 	[AntibirthRunes.Enums.Runes.KENAZ] = {
